@@ -1,5 +1,3 @@
-[![I am available for hire](http://relatedcode.com/github/header10.png)](http://relatedcode.com)
-
 ## OVERVIEW
 
 This is a native iOS Messenger app, with audio/video calls and realtime chat conversations (full offline support).
@@ -147,9 +145,6 @@ This is a native iOS Messenger app, with audio/video calls and realtime chat con
 
 **10.,** Crashlytics is also added to the project. The installation details can be found [here](https://fabric.io/kits/ios/crashlytics/install). 
 
-## CONTACT
-
-Do you have any questions or idea? My email is: info@relatedcode.com or you can find some more info at [relatedcode.com](http://relatedcode.com)
 
 ## LICENSE
 
